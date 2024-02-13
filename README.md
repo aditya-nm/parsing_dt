@@ -46,4 +46,4 @@ cat 'Demo Tabs - Sheet1.csv' | python basic_template.py > Institutions1.csv <br>
 
 ## Extra steps
 
-If you're really jobless and have finished this, you can try seeing whether you want to automate it further by using something called Selenium. It's used for web testing. Really helpful for doing laborious tasks, but might be overkill for this 
+If would be awesome if you can try seeing whether you want to automate it further by using something called Selenium. It's used for web testing. Really helpful for doing laborious tasks, but might be overkill for this 
